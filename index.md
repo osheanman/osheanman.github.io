@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Biology Works
 
-[Project 1 Title](/sample_page)
-<img src="images/MOTE.png?raw=true"/>
+[Mote Marine Laboratory Poster](https://imgur.com/xQoTsk2)
+<img src="images/MOTE.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Computer Science Works
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
