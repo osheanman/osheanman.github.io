@@ -1,17 +1,20 @@
 ## Portfolio
 
+Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward.
+
 ---
 
 ### Biology Works
 
 [Mote Marine Laboratory Poster](https://imgur.com/xQoTsk2)
+Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 <img src="images/MOTE.jpg?raw=true"/>
 
 ---
 
 ### Computer Science Works
 
-- [Project 1 Title](http://example.com/)
+- [Cryptography](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -19,7 +22,8 @@
 
 ---
 
-
+### Work Experience
+- Cobalt Mining 4 Kids
 
 
 ---
