@@ -32,25 +32,25 @@ Sarasota, FL
 -	Aquatic lab maintenance: coral husbandry, water quality testing,
 -	DNA extractions, PCR, gel electrophoresis
 ---
-###Atlas SCST 	
+### Atlas SCST 	
 Office Assistant / Assistant Geophysicist
 05/2017–Present
 San Diego, CA
 -	Sanitized work environments as part of the COVID-19 response, improved workplace safety, recycled bulk scrap, and assisted as a geophysical surveyor.
 ---
-###UC Berkeley, Blackman Lab
+### UC Berkeley, Blackman Lab
 Undergraduate Volunteer Assistant
 05/2019– 08/2019
 Berkeley, CA
 -	Responsible for preparing, germinating, and planting sunflower samples, as well as setting up the data collecting equipment during the investigations of the circadian rhythm and heliotropism.
 ---
-###Surfin’ Fire // Surf Camps USA
+### Surfin’ Fire // Surf Camps USA
 Instructor
 06/2015-08/2018
 Carlsbad, California
 -	Taught people ages 5 and up how to surf and ensured student safety.
 ---
-###University of California, Moore’s Cancer Center
+### University of California, Moore’s Cancer Center
 Call Pool Volunteer
 09/2016-06/2017
 La Jolla, CA
