@@ -1,10 +1,10 @@
-## Portfolio
+# Portfolio
 
 Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward.
 
 ---
 
-### Biology Works
+## Biology Works
 
 [Mote Marine Laboratory Poster](https://imgur.com/xQoTsk2)
 Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
@@ -12,7 +12,7 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ---
 
-### Computer Science Works
+## Computer Science Works
 
 - [Cryptography](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -22,8 +22,8 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ---
 
-### Work Experience
-Mote Marine Laboratory and Aquarium 	
+## Work Experience
+###Mote Marine Laboratory and Aquarium 	
 Undergraduate Research Intern
 06/2021-08/2021
 Sarasota, FL
@@ -31,29 +31,29 @@ Sarasota, FL
 -	Aquatic lab maintenance: coral husbandry, water quality testing,
 -	DNA extractions, PCR, gel electrophoresis
 
-Atlas SCST 	
+###Atlas SCST 	
 Office Assistant / Assistant Geophysicist
 05/2017–Present
 San Diego, CA
 -	Sanitized work environments as part of the COVID-19 response, improved workplace safety, recycled bulk scrap, and assisted as a geophysical surveyor.
 
-UC Berkeley, Blackman Lab
+###UC Berkeley, Blackman Lab
 Undergraduate Volunteer Assistant
 05/2019– 08/2019
 Berkeley, CA
 -	Responsible for preparing, germinating, and planting sunflower samples, as well as setting up the data collecting equipment during the investigations of the circadian rhythm and heliotropism.
 
-Surfin’ Fire // Surf Camps USA
+###Surfin’ Fire // Surf Camps USA
 Instructor
 06/2015-08/2018
 Carlsbad, California
 -	Taught people ages 5 and up how to surf and ensured student safety.
 
-University of California, Moore’s Cancer Center
+###University of California, Moore’s Cancer Center
 Call Pool Volunteer
 09/2016-06/2017
 La Jolla, CA
--	Assisted medical staff with patient relations, and guiding patients through the facilities to their appointments. 
+-	Assisted medical staff with patient relations, and guiding patients through the facilities to their appointments.
 
 
 
