@@ -1,6 +1,6 @@
 # Portfolio
 
-Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward.
+Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward. Some projects cannot be shown in some capacity in order to hide potential solutions for future classes.
 
 ---
 
@@ -15,15 +15,13 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ## Computer Science Works
 
-- [Actionmap: Agile Iterations of SaaS](/sample_page)
-- [Design a Secure Encrypted File Storage Service on Public Servers](/sample_page)
+- [Actionmap: Agile Iterations of SaaS](/agile_page)
+- [Design a Secure Encrypted File Storage Service on Public Servers](/enc_page)
 - [Create AI's capable of Playing Different Versions of a Maze Game](/sample_page)
 
 ---
 
 ## Work Experience
-
----
 
 ### Mote Marine Laboratory and Aquarium
 
