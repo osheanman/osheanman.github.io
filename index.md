@@ -14,11 +14,9 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ## Computer Science Works
 
-- [Cryptography](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Actionmap: Agile Iterations of SaaS](/sample_page)
+- [Design a Secure Encrypted File Storage Service on Public Servers](/sample_page)
+- [Create AI's capable of Playing Different Versions of a Maze Game](/sample_page)
 
 ---
 
