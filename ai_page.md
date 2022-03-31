@@ -1,4 +1,4 @@
-## AI Projects
+## AI Projects **(WIP)**
 
 **Project description:**
 - https://inst.eecs.berkeley.edu/~cs188/sp21/project1/
