@@ -6,6 +6,6 @@
 
 ### Initial Design
 
-This sketch shows the initial ideas for how the project would take advantage of different encryption schemes such that users could store, retrieve, delete, and share files with other users and avoid any eavesdropping or file tampering from adversaries. Public keys could be stored on a public server called "Keystore" without fear of tampering.
+This sketch shows the initial ideas for how the project would take advantage of different encryption schemes such that users could store, retrieve, delete, and share files with other users and avoid any eavesdropping or file tampering from adversaries. Public keys could be stored on a public server called "Keystore" without fear of tampering. Multiple layers of encryption at every step were required to prevent any information leaks.
 
 <img src="images/enc_scheme.jpg?raw=true"/>
