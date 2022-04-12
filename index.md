@@ -2,7 +2,7 @@
 
 Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward. Some projects cannot be shown in some capacity in order to hide potential solutions for future classes.
 
-[My resume](/pdf/resume.pdf)
+### [My Resume](/pdf/resume.pdf)
 
 ---
 
