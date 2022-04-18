@@ -19,7 +19,7 @@ Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from U
 
 [Mote Marine Laboratory Poster](https://imgur.com/xQoTsk2)
 
-Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
+Species prey preference of the corallivorous snail, _Coralliophila abbreviata_  
 <img src="images/MOTE.jpg?raw=true"/>
 
 ---
@@ -28,9 +28,9 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ### Mote Marine Laboratory and Aquarium
 
-Undergraduate Research Intern
-06/2021-08/2021
-Sarasota, FL
+Undergraduate Research Intern  
+06/2021-08/2021  
+Sarasota, FL  
 - Worked with coral disease data using R in order to model the impacts of diseases such as Stony coral tissue loss disease, monitor the health of corals, and examine the efficacy of disease treatments.
 - Designed a corallivorous snail prey preference experiment using flumes of water to deliver chemical cues to the snail species _Coralliophila abbreviata_ to determine if it was more likely to follow the flow towards the coral species of _Acropora cervicornis_, _Montipora capricornis_, or _Montastraea cavernosa_ and presented my findings.
 - Aquatic lab maintenance involved coral husbandry and water quality testing.
@@ -40,9 +40,9 @@ Sarasota, FL
 ---
 ### Atlas SCST 	
 
-Office Assistant / Assistant Geophysicist
-05/2017-01/2021
-San Diego, CA
+Office Assistant / Assistant Geophysicist  
+05/2017-01/2021  
+San Diego, CA  
 -	Geophysical Technician in charge of data collection for environmental and geologic studies.
 - Assistant to engineering division head.
 - Managed incorporation of the database of client information into a new database for marketing use.
@@ -54,26 +54,26 @@ San Diego, CA
 
 ### UC Berkeley, Blackman Lab
 
-Undergraduate Volunteer Assistant
-05/2019-08/2019
-Berkeley, CA
+Undergraduate Volunteer Assistant  
+05/2019-08/2019  
+Berkeley, CA  
 - Prepared, germinated, and planted sunflower samples.
 - Set-up and monitored the data collection equipment used in an experiment examining sunflower circadian rhythm and heliotropism.   
 
 ---
 
 ### Surfin’ Fire // Surf Camps USA
-Instructor
-06/2015-08/2018
-Carlsbad, California
+Instructor  
+06/2015-08/2018    
+Carlsbad, California    
 -	Taught people ages 5 and up how to surf and ensured student safety.
 
 ---
 
 ### University of California, Moore’s Cancer Center
-Call Pool Volunteer
-09/2016-06/2017
-La Jolla, CA
+Call Pool Volunteer  
+09/2016-06/2017  
+La Jolla, CA  
 - Assisted medical staff with patient relations. Served to comfort patients and help guide them to their appointments.
 
 
