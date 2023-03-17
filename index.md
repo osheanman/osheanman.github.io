@@ -1,8 +1,8 @@
 # Portfolio
 
-Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases both the biology and the computer science projects I have worked on during my education, and will be updated with any personal projects I start moving forward. Some projects cannot be shown in some capacity in order to hide potential solutions for future classes.
+Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from UC Berkeley. This website showcases a selection of the biology and computer science projects I have worked on.
 
-### [My Resume](/pdf/resume.pdf)
+### [My Resume](/pdf/JV_MOL_Resume.pdf)
 
 ---
 
@@ -11,7 +11,7 @@ Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from U
 - [Actionmap: SaaS app for politically neutral information about representatives](./agile_page)
 - [End-to-End Encrypted File Sharing Service](./enc_page)
 - [Vocal Recognition Controlled Car](./car_page)
-- [Pacman AI](./ai_page)
+<!--  - [Pacman AI](./ai_page) -->
 
 ---
 
@@ -26,6 +26,17 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ## Work Experience
 
+### NOVA Engineering
+
+Project Coordinator
+12/2022-Present
+San Diego, CA
+- Coordinated the efforts of project managers and civil engineers for more than 30 projects.
+- Managed and documented communications with clients and municipalities for ongoing projects.
+- Incorporated automation for repetitive tasks into company excel and pdf documents.
+
+---
+
 ### Mote Marine Laboratory and Aquarium
 
 Undergraduate Research Intern  
@@ -38,6 +49,7 @@ Sarasota, FL
 
 
 ---
+
 ### Atlas SCST 	
 
 Office Assistant / Assistant Geophysicist  
