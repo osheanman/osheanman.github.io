@@ -42,10 +42,9 @@ San Diego, CA
 Undergraduate Research Intern  
 06/2021-08/2021  
 Sarasota, FL  
-- Worked with coral disease data using R in order to model the impacts of diseases such as Stony coral tissue loss disease, monitor the health of corals, and examine the efficacy of disease treatments.
-- Designed a corallivorous snail prey preference experiment using flumes of water to deliver chemical cues to the snail species _Coralliophila abbreviata_ to determine if it was more likely to follow the flow towards the coral species of _Acropora cervicornis_, _Montipora capricornis_, or _Montastraea cavernosa_ and presented my findings.
-- Aquatic lab maintenance involved coral husbandry and water quality testing.
-- Applied learned protocols for DNA extractions, PCR, gel electrophoresis.
+- Wrote software solutions in R, using built in statistical functions and the package ggplot2, to analyze and visualize over 5000 points of coral disease data to examine treatment efficacy.
+- Designed a corallivorous snail experiment presented my findings to the principal investigators.
+- Wrote tests and debugged projects in python for postdoctoral researchers.
 
 
 ---
@@ -55,11 +54,9 @@ Sarasota, FL
 Office Assistant / Assistant Geophysicist  
 05/2017-01/2021  
 San Diego, CA  
--	Geophysical Technician in charge of data collection for environmental and geologic studies.
+- Managed merging of a database of client information into a new database, which involved manually reformatting Excel spreadsheets to fit into csv files and writing SQL queries.
+-	Geophysical Technician in charge of data collection for environmental and geologic studies, worked alongside professional geologist on dozens of projects.
 - Assistant to engineering division head.
-- Managed incorporation of the database of client information into a new database for marketing use.
-- Sanitized environments as part of COVID-19 response.
-
 
 
 ---
