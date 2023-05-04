@@ -26,10 +26,20 @@ Species prey preference of the corallivorous snail, _Coralliophila abbreviata_
 
 ## Work Experience
 
+### Advantage Geophysics
+
+Geophysical Technician  
+03/2023-Present  
+San Diego, CA
+- Performed month long hybrid source audio magnetotellurics surveys on two projects in harsh weather conditions in Arizona, involving the assembly and use of the Geode EM3D.
+- Used knowledge of EM fields to make decisions on the placement on hundreds of survey stations.
+
+---
+
 ### NOVA Engineering
 
 Project Coordinator
-12/2022-Present
+12/2022-Present  
 San Diego, CA
 - Coordinated the efforts of project managers and civil engineers for more than 30 projects.
 - Managed and documented communications with clients and municipalities for ongoing projects.
