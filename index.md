@@ -38,7 +38,7 @@ San Diego, CA
 
 ### NOVA Engineering
 
-Project Coordinator
+Project Coordinator  
 12/2022-Present  
 San Diego, CA
 - Coordinated the efforts of project managers and civil engineers for more than 30 projects.
