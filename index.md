@@ -22,7 +22,7 @@ Mote Marine Laboratory Poster
 
 Species prey preference of the corallivorous snail, _Coralliophila abbreviata_  
 
-[[Image](images/MOTE.jpg?raw=true)](https://osheanman.github.io/images/MOTE.jpg?raw=true)
+[![Image](images/MOTE.jpg?raw=true)](https://osheanman.github.io/images/MOTE.jpg?raw=true)
 <!-- <img src="images/MOTE.jpg?raw=true"/> -->
 
 ---
