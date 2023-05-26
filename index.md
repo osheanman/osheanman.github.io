@@ -8,6 +8,7 @@ Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from U
 
 ## Computer Science Works
 
+- Advantage Geophysics Website (WIP)
 - [Actionmap: SaaS app for politically neutral information about representatives](./agile_page)
 - [End-to-End Encrypted File Sharing Service](./enc_page)
 - [Vocal Recognition Controlled Car](./car_page)
@@ -17,7 +18,7 @@ Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from U
 
 ## Biology Works
 
-[Mote Marine Laboratory Poster](https://imgur.com/xQoTsk2)
+Mote Marine Laboratory Poster
 
 Species prey preference of the corallivorous snail, _Coralliophila abbreviata_  
 <img src="images/MOTE.jpg?raw=true"/>
