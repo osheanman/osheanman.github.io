@@ -8,7 +8,7 @@ Howdy! My name is Muhammad Oshean Lehrmann, and I have recently graduated from U
 
 ## Computer Science Works
 
-- [Advantage Geophysics Website (WIP)](https://github.com/osheanman/AdvGeo)
+- [Advantage Geophysics Website](https://advantagegeophysics.com/)
 - [Actionmap: SaaS app for politically neutral information about representatives](./agile_page)
 - [End-to-End Encrypted File Sharing Service](./enc_page)
 - [Vocal Recognition Controlled Car](./car_page)
